@@ -5,7 +5,7 @@
 			"type": "mrs-debugger",
 			"request": "launch",
 			"name": "RYDAP-HS-IAP",
-			"cwd": "e:\\RYMCU\\4_DAP\\4_RYDAP\\RYDAP-HS-HID",
+			"cwd": "e:\\RYMCU\\github\\RYDAP-HS-IAP",
 			"openOCDCfg": {
 				"useLocalOpenOCD": true,
 				"executable": "d:/MounRiver/MounRiver_Studio2/resources/app/resources/win32/components/WCH/OpenOCD/OpenOCD/bin/openocd.exe",
@@ -39,8 +39,8 @@
 					"additionalCommands": []
 				},
 				"loadedFiles": {
-					"executableFile": "e:\\RYMCU\\4_DAP\\4_RYDAP\\RYDAP-HS-HID\\obj\\RYDAP-HS-IAP.elf",
-					"symbolFile": "e:\\RYMCU\\4_DAP\\4_RYDAP\\RYDAP-HS-HID\\obj\\RYDAP-HS-IAP.elf",
+					"executableFile": "e:\\RYMCU\\github\\RYDAP-HS-IAP\\obj\\RYDAP-HS-IAP.elf",
+					"symbolFile": "e:\\RYMCU\\github\\RYDAP-HS-IAP\\obj\\RYDAP-HS-IAP.elf",
 					"executableFileOffset": 0,
 					"symbolFileOffset": 0
 				},
